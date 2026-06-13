@@ -1,0 +1,17 @@
+# Build output
+*.o
+*.out
+rps
+
+# macOS
+.DS_Store
+
+# Vim
+*.swp
+*.swo
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
